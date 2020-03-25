@@ -1,0 +1,32 @@
+<?php 
+
+return [
+	'notfound' => 'لا يوجد نتائج',
+	'deleted' => 'تم الحذف بنجاح',
+	'sent' => 'تم الإرسال بنجاح',
+	'home' => 'الرئيسية',
+	'customer_service' => 'خدمة العملاء',
+	'complaints_suggessions' => 'الشكاوى والمقترحات',
+	'report_error' => ' ابلاغ عن اخطاء ',
+	'sellers' => 'البائعين',
+	'add_seller' => 'إضافة بائع',
+	'products' => 'المنتجات',
+	'categories' => 'الأقسام',
+	'units' => 'الوحدات',
+	'reports' => 'التقارير',
+	'add_new' => 'إضافة جديد',
+	'edit' => 'تعديل',
+	'save' => 'حفظ',
+	'operations' => 'العمليات',
+	'close' => 'إغلاق',
+	'success_msg' => 'تمت العملية بنجاح',
+	'filters' => [
+		'search' => 'بحث',
+		'from' => 'من',
+		'to' => 'إلى',
+		'all' => 'الكل',
+	],
+	'posts' => 'المقالات',
+	'edit' => 'تعديل',
+	'delete' => 'حذف',
+];
